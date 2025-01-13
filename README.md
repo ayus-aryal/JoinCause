@@ -1,4 +1,4 @@
-# JoinCause
+# Join The Cause
 
 JoinCause is a platform designed to connect people with social causes, events, and NGOs. It aims to make volunteering, participating, and fundraising easier for everyone while creating a unified community for positive change.
 
