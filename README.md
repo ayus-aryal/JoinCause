@@ -1,6 +1,6 @@
 # Join The Cause
 
-JoinCause is a platform designed to connect people with social causes, events, and NGOs. It aims to make volunteering, participating, and fundraising easier for everyone while creating a unified community for positive change.
+Join The Cause is a platform designed to connect people with social causes, events, and NGOs. It aims to make volunteering, participating, and fundraising easier for everyone while creating a unified community for positive change.
 
 ## Features
 
@@ -26,4 +26,4 @@ JoinCause is a platform designed to connect people with social causes, events, a
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/yourusername/JoinCause.git
-   cd JoinCause
+   cd Join The Cause
